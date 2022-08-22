@@ -15,7 +15,7 @@ body {
 
 main {
   background-color: antiquewhite;
-  height: 1100px;
+  height: 700px;
   max-width: 700px;
   border-radius: 25px;
   padding: 20px;
@@ -28,7 +28,7 @@ main {
 .dice-container {
   margin-top: 20px;
   display: grid;
-  grid-template: auto auto / repeat(2, 5fr);
+  grid-template: auto auto / repeat(5, 2fr);
   gap: 20px;
   padding: 10px;
 }
@@ -67,8 +67,8 @@ main {
 }
 
 .roll-button {
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   background-color: rgb(212, 178, 243);
   box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.15);
   height: 100px;
