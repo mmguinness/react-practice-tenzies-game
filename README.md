@@ -18,7 +18,8 @@ Practice project as part of the freeCodeCamp course - [React JavaScript Library 
 
 ### Brief
 
-- Tutorial to make a dice game that plays confetti when all ten dice have the same number selected.
+- Tenzi game rules: Everyone gets ten dice. Someone says, “Go.” Then everyone rolls and rolls as fast as they can until someone gets all their dice on the same number and shouts “TENZI.”
+- Make a version of the Tenzi dice game, to win, all ten dice must have the same number selected.
 
 <p style="text-align: center;">
   <img alt="Homepage" src="./public/Screenshot 2022-08-22-Scrimba.png" width="80%"> 
