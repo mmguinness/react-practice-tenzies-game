@@ -10,28 +10,11 @@ Practice project as part of the freeCodeCamp course - [React JavaScript Library 
 - JavaScript
 - ReactJS
 - HTML
-- CSS
+- CSS ([Dice CSS stying reference](https://betterprogramming.pub/creating-dice-in-flexbox-in-css-a02a5d85e516) )
 - [React-confetti effect](https://github.com/alampros/react-confetti) 
+- Hosted on Heroku
 
 
-## Requirements    
-
-### Brief
-
-- Tenzi game rules: Everyone gets ten dice. Someone says, “Go.” Then everyone rolls and rolls as fast as they can until someone gets all their dice on the same number and shouts “TENZI.”
-- Make a version of the Tenzi dice game, to win, all ten dice must have the same number selected.
-
-<p style="text-align: center;">
-  <img alt="Homepage" src="./public/Screenshot 2022-08-22-Scrimba.png" width="80%"> 
-</p>
-
-### Topics Covered
-
-  - Event Listeners
-  - State
-  - Conditional Rendering
-  - Side Effects
-  
 
 ## Screenshots of application
 
@@ -46,3 +29,23 @@ Practice project as part of the freeCodeCamp course - [React JavaScript Library 
 <p style="text-align: center;">
   <img alt="Homepage" src="./public/Screenshot 2022-08-22-Won.png" width="80%"> 
 </p>
+
+
+## Requirements    
+
+- Make a version of the Tenzi dice game, to win all ten dice must have the same number selected. 
+- Original Tenzi game rules: Everyone gets ten dice. Someone says, “Go.” Then everyone rolls and rolls as fast as they can until someone gets all their dice on the same number and shouts “TENZI.”
+
+- Tutorial template:
+
+<p style="text-align: center;">
+  <img alt="Homepage" src="./public/Screenshot 2022-08-22-Scrimba.png" width="80%"> 
+</p>
+
+### React Topics Covered
+
+  - Event Listeners
+  - State
+  - Conditional Rendering
+  - Side Effects
+  
